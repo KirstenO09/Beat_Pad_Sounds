@@ -1,4 +1,5 @@
 # 🎮 Beat Pad Game
+An ESP32-powered web-controlled LED rhythm interface.
 
 ## 🔧 Hardware Required
 - ESP32-C3
@@ -20,3 +21,6 @@
    ```cpp
    const char* WIFI_SSID = "YourSSID";
    const char* WIFI_PASS = "YourPassword";
+
+## 💡Ready to Play
+Click the Beat Pad buttons to see the cool LED patterns!
